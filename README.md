@@ -3,9 +3,9 @@ A simple Audio/Video Chat Web Application implemented by using WebRTC and WebSoc
 
 ### TODO
 
-Need to work on video tagging
-settingup STURN server
-Encrypted streaming 
+* Need to work on video tagging
+* settingup STURN server
+* Encrypted streaming 
 
 
 ### License
